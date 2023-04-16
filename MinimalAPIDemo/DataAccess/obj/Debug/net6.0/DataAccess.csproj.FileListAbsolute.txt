@@ -10,3 +10,15 @@ C:\Repos\minimal-api-demo\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.
 C:\Repos\minimal-api-demo\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 C:\Repos\minimal-api-demo\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Repos\minimal-api-demo\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Repos\minimal-api-proj\MinimalAPIDemo\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

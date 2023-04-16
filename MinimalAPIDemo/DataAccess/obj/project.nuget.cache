@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SBO9Rgv0PvE99xqj1C7wJpbCvodXKPMqxr4fYS62xUkzEu4VUAWqlU/KdWRWQiLD9qAtwvIyH/7v8+gC/lOkyA==",
+  "dgSpecHash": "bA/ksAcHZfcB2DvtIoDmkrQOpks+u56+2ytf6j+Zvo1vAxa0mZ8e7QudJ7AZhAPPp/N45QaaD3ADtUyoWc5tZA==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\minimal-api-demo\\MinimalAPIDemo\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Repos\\minimal-api-proj\\MinimalAPIDemo\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\varsha.fernandes\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\varsha.fernandes\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

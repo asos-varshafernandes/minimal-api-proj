@@ -3,4 +3,4 @@ AS
 begin
 	select Id, FirstName, LastName
 	from dbo.[User];
-	end
+end
